@@ -20,14 +20,15 @@ Preconditions:
 -	Installed Python 2.7
 
 Instructions:
-`usage: script-file-duplicate.py [-h] [-d PATHDIR] [-n DUPLICATESNUMBER]`
-```                                [-f SOURCEFILE]                        ```
 
-optional arguments:
-  -h, --help            show this help message and exit
-  -d PATHDIR, --pathdir PATHDIR
-                        Set path to directory for test data
-  -n DUPLICATESNUMBER, --duplicatesnumber DUPLICATESNUMBER
-                        Set number of duplicates
-  -f SOURCEFILE, --sourcefile SOURCEFILE
-                        Set path to source file for creating of duplicates```
+`usage: script-file-duplicate.py [-h] [-d PATHDIR] [-n DUPLICATESNUMBER]`
+`                                [-f SOURCEFILE]                        `
+
+`optional arguments:`
+`  -h, --help            show this help message and exit`
+`  -d PATHDIR, --pathdir PATHDIR`
+`                        Set path to directory for test data`
+`  -n DUPLICATESNUMBER, --duplicatesnumber DUPLICATESNUMBER`
+`                        Set number of duplicates`
+`  -f SOURCEFILE, --sourcefile SOURCEFILE`
+`                        Set path to source file for creating of duplicates`
