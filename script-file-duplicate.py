@@ -22,7 +22,7 @@ def dir():
         print "Error! Can't create directory"
 
 #### create source file for duplicates ####
-def file():
+def fil():
     try:
         if namespace.sourcefile is not None:
             namespace.sourcefile=os.path.normpath(namespace.sourcefile)
@@ -77,6 +77,6 @@ if __name__ == '__main__':
     parser = createparser()
     namespace = parser.parse_args(sys.argv[1:])
     dir()
-    file()
+    fil()
     duplicates()
     modificationdate()
