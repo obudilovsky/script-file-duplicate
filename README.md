@@ -20,7 +20,7 @@ Preconditions:
 -	Installed Python 2.7
 
 Instructions:
-usage: script-file-duplicate.py [-h] [-d PATHDIR] [-n DUPLICATESNUMBER]
+```usage: script-file-duplicate.py [-h] [-d PATHDIR] [-n DUPLICATESNUMBER]
                                 [-f SOURCEFILE]
 
 optional arguments:
@@ -30,4 +30,4 @@ optional arguments:
   -n DUPLICATESNUMBER, --duplicatesnumber DUPLICATESNUMBER
                         Set number of duplicates
   -f SOURCEFILE, --sourcefile SOURCEFILE
-                        Set path to source file for creating of duplicates
+                        Set path to source file for creating of duplicates```
