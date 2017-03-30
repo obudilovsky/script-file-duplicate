@@ -20,7 +20,7 @@ Preconditions:
 -	Installed Python 2.7
 
 Instructions:
-```usage: script-file-duplicate.py [-h] [-d PATHDIR] [-n DUPLICATESNUMBER]```
+`usage: script-file-duplicate.py [-h] [-d PATHDIR] [-n DUPLICATESNUMBER]`
 ```                                [-f SOURCEFILE]                        ```
 
 optional arguments:
