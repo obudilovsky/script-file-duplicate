@@ -3,7 +3,7 @@ Created script for creating of file duplicates using Python
 
 Task:
 Write a script that can:
-    - accept the path to the directory where the test files will be created
+- accept the path to the directory where the test files will be created
 data;
     - If the path to the directory is not specified, then assume that it is equal to the current folder in which
 The script is executed;
